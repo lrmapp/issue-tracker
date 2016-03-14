@@ -4,9 +4,9 @@ Welcome to the The official issue tracker for LRM kindly hosted by GitHub!
 
 ## Logging issues
 
-All general bugs/application issues should be logged on our GitHub based [https://github.com/lrmapp/issues/issues](issue tracking system here).
+All general bugs/application issues should be logged on our GitHub based [issue tracking system here](https://github.com/lrmapp/issues/issues).
 
-[https://github.com/lrmapp/issues/issues/new](Open a new issue?)
+[Open a new issue?](https://github.com/lrmapp/issues/issues/new)
 
 ## Security Vulnerabilities
 
